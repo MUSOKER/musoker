@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rogers Musoke</h1>
+<h1 align="center">Hi 👋 there.</h1>
 <h3 align="center">I'm Rogers from Uganda, and I mostly do backend web design and implementation with technologies like nodejs with express, flask, php and frontend using react. I really enjoy learning languages and frameworks</h3>
 
 <img align="right" alt="Coding" width="400" src="https://eww-wp-new.s3.ap-south-1.amazonaws.com/wp-content/uploads/2021/11/22114221/combination-of-node.js-with-react-js.jpg">
